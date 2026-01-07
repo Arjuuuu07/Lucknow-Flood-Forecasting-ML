@@ -11,7 +11,7 @@ Floods are "Rare Events," leading to a massive class imbalance. A standard model
  Hydrological Feature Engineering
 I engineered features based on the physical movement of water into the Lucknow basin:
 11-Point Geospatial Monitoring:7 Internal Points: Capturing localized precipitation intensity within Lucknow.
-4 Upstream Inflow Points:** Monitoring rainfall at coordinates where rivers enter the district. This allows the model to predict "Upstream Flooding" even when local rain is low.
+4 Upstream Inflow Points:** Monitoring rainfall at coordinates where rivers enter the district. This allows the model to predict "Upstream Flooding" even when local rain is low
 CUMI (7-Day Cumulative Rainfall):
 Instead of looking at a single day, I engineered the Cumulative Moisture Index.
 Logic: If the ground is already saturated from 7 days of rain, even a small storm can trigger a catastrophic flood.
