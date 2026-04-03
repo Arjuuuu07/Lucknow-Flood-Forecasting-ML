@@ -165,7 +165,7 @@ Without being told that 2008 was a flood year, the model correctly flagged three
 | August mid-season event | Aug 14 – Aug 24 | 0.786 |
 | September late-season event | Sep 20 – Sep 26 | **0.923** |
 
-**22 flood-risk days flagged across 366 days of data** — all concentrated in the climatologically correct monsoon windows (July–September). This demonstrates genuine generalization to unseen hydrological events, not overfitting to the training years.in this days someof the days are founded floos throug internet that images are providedin result section
+**22 flood-risk days flagged across 366 days of data** — all concentrated in the climatologically correct monsoon windows (July–September). This demonstrates genuine generalization to unseen hydrological events, not overfitting to the training years.in this days someof the days are founded floos throug internet that images are provided in result section
 
 ---
 
@@ -183,6 +183,7 @@ Without being told that 2008 was a flood year, the model correctly flagged three
 - [ ] Integration of real-time IMD rainfall API for live forecasting
 - [ ] Expansion to other Uttar Pradesh districts with region-specific inflow networks
 - [ ] Multi-day ahead forecasting (predicting flood risk 3–5 days in advance)
+- [ ] IMD data set is not reliable 100%
 
 ---
 
