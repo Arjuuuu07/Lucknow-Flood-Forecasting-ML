@@ -1,6 +1,6 @@
 # Lucknow Flood Forecasting — Geospatial AI/ML
 
-A high-precision geospatial machine learning model for flood risk forecasting in Lucknow District, achieving **100% Recall and 100% F1-Score** — zero missed flood events — validated on unseen 2008 flood data.
+A high-precision geospatial machine learning model for flood risk forecasting in Lucknow District, achieving high Recall and high F1-Score** —validated on unseen 2008 flood data.
 
 ---
 
